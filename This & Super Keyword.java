@@ -36,3 +36,8 @@ class main
         cobj.gun();          //it will call the gun() method and all code get executed
     }
 }
+
+//O/P =
+//30
+//30
+//20
